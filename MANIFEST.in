@@ -1,0 +1,4 @@
+include ple/games/doom/assets/*
+include ple/games/doom/assets/cfg/*
+include ple/games/flappybird/assets/*
+include ple/games/monsterkong/assets/*
